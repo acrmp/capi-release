@@ -797,7 +797,7 @@ properties:
     default: "1536M"
     description: "Maximum body size for nginx bits uploads"
 
-  cc.default_app_log_rate_limit_in_bps:
+  cc.default_app_log_rate_limit_in_bytes_per_second:
     default: 9999
     description: "Default application log rate limit" 
 
